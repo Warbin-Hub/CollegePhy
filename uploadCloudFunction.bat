@@ -1,0 +1,1 @@
+"D:\ISPtools\wechar\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-7gra71s2d5b5765a --n quickstartFunctions --r --project "D:\CollegePhy" --report_start --report

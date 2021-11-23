@@ -1,0 +1,7 @@
+/**
+*color ui库
+*/
+@import "/ui/main.wxss";
+@import "/ui/icon.wxss";
+@import "/ui/animation.wxss";
+@import "/ui/components/cu-custom.wxss";

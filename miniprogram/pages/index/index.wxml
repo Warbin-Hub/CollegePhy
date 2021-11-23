@@ -1,0 +1,8 @@
+<view class="grid col-1 margin-bottom text-center">
+  <view class="bg-cyan padding">
+    <button type="primary" bindtap="goToBinaryConversion">进制转换</button>
+  </view>
+  <view class="bg-blue padding">
+    <button type="primary" bindtap="goToLeastSquare">最小二乘法</button>
+  </view>
+</view>
